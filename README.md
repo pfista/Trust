@@ -1,4 +1,4 @@
-Trust
+Trust (Wufi)
 =====
 
-A revolutionary reputation system
+A revolutionary, p2p reputation currency system
