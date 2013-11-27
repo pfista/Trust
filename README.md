@@ -1,5 +1,5 @@
 # Trust (aka Wufi)
-A p2p reputation currency system
+A next-gen p2p reputation system (and possibly currency platform)
 
 ### The general goal: 
   
@@ -7,11 +7,11 @@ A p2p reputation currency system
   * to allow users to see any other user's general or contextual "social capital" from their own perspective on the network (for now, let's call it Wufi score)
   * to allow users to use their Wufi Power to spend/earn a currency onto anyone, even complete strangers (for now, let's call it Wufi)
 
-### Stated features:
+### Stated, inherent features:
 
-  * collusion-resistant: you cannot receive Wufi for stuff from users you have not directly or indirectly boosted/nixed;
-  * inflation-resistant: you can only earn as much Wufi as you have boosted and spend only as much as you have been boosted;
+  * collusion-resistant: you cannot receive Wufi for stuff from users you have not directly or indirectly boosted/nixed, so making false accounts will not increase your Wufi Score
   * sybil attack-resistant: boosting any user's Wufi Power only gives that user a higher proportion of your total boosted amount (unlike Facebook 'likes' or Twitter 'retweets' and other spammable voting systems); this means giving a user trillions of Wufi only devalues the social capital of everyone else you have previously boosted
+  * self-promotion and slander-resistant: creating fake identities only increases/decreases your real account's Wufi score from the spam account's perspective; if these spam accounts are never boosted/nixed by real users, then the spam account's perspective provides no value to any other real user
   * ????: while your reputation within a context may be negative, the worst Wufi Score you can have is 0
 
 ### Future (desired) plans/features:
