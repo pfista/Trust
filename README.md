@@ -1,10 +1,10 @@
 # Trust (aka Wufi)
-A next-gen p2p reputation system (and possibly currency platform)
+-> A next-gen p2p reputation system (and possibly currency platform)
 
 ### The general goal: 
   
-  * to allow users to contextually rate the actions of other users, on or offline, by boosting/nixing a user's "social capital" (for now, let's call it Wufi Power)
-  * to allow users to see any other user's general or contextual "social capital" from their own perspective on the network (for now, let's call it Wufi score)
+  * to allow users to contextually rate the actions of other users, on or offline, by boosting/nixing a user's "social capital" (for now, let's call these "wallet" and "pocket" balances)
+  * to allow users to see any other user's centrality and general or contextual "social capital" from their own perspective on the network (for now, let's call these metrics Wufi scores)
   * to allow users to use their Wufi Power to spend/earn a currency onto anyone, even complete strangers (for now, let's call it Wufi)
 
 ### Stated, inherent features:
@@ -22,7 +22,8 @@ A next-gen p2p reputation system (and possibly currency platform)
 
 ###### Some terms: (* = yet to be finalized)
 
-  * Wufi Power*: the net sum of all ratings you have received (amount of boosted Wufi minus amount of nixed Wufi)
-  * Wufi Score*: the net proportional sum of ratings of you from the perspective of any user
-  * boosting* : the action of raising a user's Wufi Power
-  * nixing*: the action of lowering a user's Wufi Power
+  * 
+  * boosting* : the action of raising a user's Wufi Power (increasing their "wallet" and your "pocket"
+  * nixing*: the action of lowering a user's Wufi Power (decreasing their "wallet" and your "pocket"
+  * wallet*: the amount of Wufi a user can spend (without drawing on their pocket balance)
+  * pocket*: the amount of Wufi a user has boosted
