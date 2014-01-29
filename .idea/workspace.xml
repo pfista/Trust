@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8ce4e99-43fd-4b04-ab83-4e88630a9ac3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ripple-0.7.30.js" afterPath="$PROJECT_DIR$/ripple-0.7.30.js" />
     </list>
     <ignored path="Trust.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +25,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="0.04950495" vertical-offset="0" max-vertical-offset="909">
+            <state line="3" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ripple-0.7.30.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ripple-0.7.30.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ripple-0.7.30.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="0" selection-start="3322" selection-end="3322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="224280">
+            <state line="117" column="4" selection-start="3656" selection-end="3656" vertical-scroll-proportion="-3.2022347" vertical-offset="4621" max-vertical-offset="184710">
               <folding>
-                <element signature="e#3363#49024#0" expanded="false" />
+                <element signature="e#49132#57103#0" expanded="false" />
+                <element signature="e#57200#87984#0" expanded="false" />
+                <element signature="e#88058#94990#0" expanded="false" />
+                <element signature="e#95057#116083#0" expanded="false" />
+                <element signature="e#116157#122306#0" expanded="false" />
+                <element signature="e#122368#126485#0" expanded="false" />
+                <element signature="e#126547#130563#0" expanded="false" />
+                <element signature="e#130634#139052#0" expanded="false" />
+                <element signature="e#139123#140018#0" expanded="false" />
+                <element signature="e#140072#144078#0" expanded="false" />
+                <element signature="e#144132#144641#0" expanded="false" />
+                <element signature="e#144695#159852#0" expanded="false" />
+                <element signature="e#159906#160131#0" expanded="false" />
+                <element signature="e#160185#163578#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -64,6 +77,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/ripple-0.7.30.js" />
       </list>
     </option>
   </component>
@@ -125,6 +139,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistory" value="" />
+    <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
@@ -243,7 +258,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="109" column="0" selection-start="3322" selection-end="3322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="224280">
           <folding>
-            <element signature="e#3363#49024#0" expanded="false" />
+            <element signature="e#49132#57103#0" expanded="false" />
+            <element signature="e#57200#87984#0" expanded="false" />
+            <element signature="e#88058#94990#0" expanded="false" />
+            <element signature="e#95057#116083#0" expanded="false" />
+            <element signature="e#116157#122306#0" expanded="false" />
+            <element signature="e#122368#126485#0" expanded="false" />
+            <element signature="e#126547#130563#0" expanded="false" />
+            <element signature="e#130634#139052#0" expanded="false" />
+            <element signature="e#139123#140018#0" expanded="false" />
+            <element signature="e#140072#144078#0" expanded="false" />
+            <element signature="e#144132#144641#0" expanded="false" />
+            <element signature="e#144695#159852#0" expanded="false" />
+            <element signature="e#159906#160131#0" expanded="false" />
+            <element signature="e#160185#163578#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -255,19 +283,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ripple-0.7.30.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="0" selection-start="3322" selection-end="3322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="224280">
-          <folding>
-            <element signature="e#3363#49024#0" expanded="false" />
-          </folding>
+        <state line="3" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/ripple-0.7.30.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="0.04950495" vertical-offset="0" max-vertical-offset="909">
-          <folding />
+        <state line="117" column="4" selection-start="3656" selection-end="3656" vertical-scroll-proportion="-3.2022347" vertical-offset="4621" max-vertical-offset="184710">
+          <folding>
+            <element signature="e#49132#57103#0" expanded="false" />
+            <element signature="e#57200#87984#0" expanded="false" />
+            <element signature="e#88058#94990#0" expanded="false" />
+            <element signature="e#95057#116083#0" expanded="false" />
+            <element signature="e#116157#122306#0" expanded="false" />
+            <element signature="e#122368#126485#0" expanded="false" />
+            <element signature="e#126547#130563#0" expanded="false" />
+            <element signature="e#130634#139052#0" expanded="false" />
+            <element signature="e#139123#140018#0" expanded="false" />
+            <element signature="e#140072#144078#0" expanded="false" />
+            <element signature="e#144132#144641#0" expanded="false" />
+            <element signature="e#144695#159852#0" expanded="false" />
+            <element signature="e#159906#160131#0" expanded="false" />
+            <element signature="e#160185#163578#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
