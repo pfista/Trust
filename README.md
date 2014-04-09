@@ -1,11 +1,11 @@
 # Trust (aka Wufi)
--> A p2p social cryptocurrency network
+=> An experimental p2p, reputation (crypto)currency
 
-### The general goal: 
+### The general goals: 
   
-  * to allow users to rate the actions and content of other users, on or offline, by gifting or nixing a user's Wufi Score
-  * to allow users to see any other user's general or contextual Wufi Score from their own perspective on the network
-  * to allow users to spend and earn Wufi from anyone, even complete strangers, with no single or centralized issuer
+  * users can rate the actions and content of other users, on or offline, by sharing or nixing Wufi with a user
+  * users can then see any other user's rep from their own perspective in the network
+  * users can spend and earn Wufi through connections made by sharing Wufi
 
 ### Stated, inherent features:
 
@@ -22,8 +22,19 @@
 
 ###### Some terms: (* = yet to be finalized)
 
-  * 
-  * gifting* : the action of raising a user's Wufi Score (increasing their "wallet" and your "pocket" balances)
-  * nixing*: the action of lowering a user's Wufi Score (decreasing their "wallet" and your "pocket" balances)
-  * wallet*: the amount of Wufi a user can spend (without drawing on their pocket balance)
-  * pocket*: the net total amount of Wufi a user has gifted and nixed
+  * sharing* : raises a user's rep, increasing their wallet and your pocket balances
+  * nixing*: lowers a user's rep, decreasing their wallet and your pocket balances
+  * wallet*: the amount of Wufi a user can spend without drawing on their pocket balance
+  * pocket*: the net total amount of Wufi a user has shared and nixed
+
+
+###### new temporarily-placed musings:
+
+  * sharing raises your rep == more whuffie to spend in more of the network
+  * nixing lowers your rep == less whuffie to spend in less of the network
+
+    unlike cash, where there is a single issuer and so the game is to acquire as much as possible, everyone can create whuffie, so the game is about getting as much as possible from as much of the network as possible
+
+
+  * access vs ownership
+  * tipping a user gives them more whuffie to spend in more places/more of the network
