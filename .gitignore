@@ -1,0 +1,7 @@
+*.dat
+logs
+results
+build
+pids
+
+ripplelib-wiki*
