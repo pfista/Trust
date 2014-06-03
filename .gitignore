@@ -1,8 +1,4 @@
 *.dat
 logs
-results
-build
-pids
 
-ripple-wiki*
-ripple-lib
+node_modules
